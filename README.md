@@ -8,59 +8,30 @@ These instructions will get you a copy of the project up and running on your loc
 
 ### Prerequisites
 
-What things you need to install the software and how to install them
+* Microsoft Access 2013 and above
+Git for Windows
+TortoiseGit
+OASIS-SVN
 
-```
-Give examples
-```
+* [Git for Windows](https://git-scm.com/download/win/)
+* [TortoiseGit](https://tortoisegit.org/) - CLI tool (needed for OASIS-SVN)
+* [OASIS-SVN](https://dev2dev.de/) - Interface between MS Access and Git
 
 ### Installing
 
-A step by step series of examples that tell you how to get a development env running
-
-Say what the step will be
-
-```
-Give the example
-```
-
-And repeat
-
-```
-until finished
-```
-
-End with an example of getting some data out of the system or using it for a little demo
+...will follow
 
 ## Running the tests
 
-Explain how to run the automated tests for this system
-
-### Break down into end to end tests
-
-Explain what these tests test and why
-
-```
-Give an example
-```
-
-### And coding style tests
-
-Explain what these tests test and why
-
-```
-Give an example
-```
+...will follow
 
 ## Deployment
 
-Add additional notes about how to deploy this on a live system
+...will follow
 
 ## Built With
 
-* [Dropwizard](http://www.dropwizard.io/1.0.2/docs/) - The web framework used
-* [Maven](https://maven.apache.org/) - Dependency Management
-* [ROME](https://rometools.github.io/rome/) - Used to generate RSS Feeds
+...will follow
 
 ## Contributing
 
@@ -72,13 +43,13 @@ We use [SemVer](http://semver.org/) for versioning. For the versions available, 
 
 ## Authors
 
-* **Billie Thompson** - *Initial work* - [PurpleBooth](https://github.com/PurpleBooth)
+* **Chris** - *Initial work* - [qTools4All](https://github.com/qTools4All)
 
 See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
+This project is licensed under the GPL3.0 License - see the [LICENSE.md](LICENSE.md) file for details
 
 ## Acknowledgments
 
