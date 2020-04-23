@@ -9,10 +9,6 @@ These instructions will get you a copy of the project up and running on your loc
 ### Prerequisites
 
 * Microsoft Access 2013 and above
-Git for Windows
-TortoiseGit
-OASIS-SVN
-
 * [Git for Windows](https://git-scm.com/download/win/)
 * [TortoiseGit](https://tortoisegit.org/) - CLI tool (needed for OASIS-SVN)
 * [OASIS-SVN](https://dev2dev.de/) - Interface between MS Access and Git
