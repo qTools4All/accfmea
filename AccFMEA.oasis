@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="iso-8859-1" standalone="yes"?>
+<OASIS>
+  <ProjectSettings>
+    <LocalPath value="msaccess\"/>
+    <CompatibilityMode value="false"/>
+    <ConvertUTF8 value="false"/>
+    <ValidObjects value="129087"/>
+    <EnableODBCScan value="false"/>
+    <MethodBeforeImport value=""/>
+    <MethodExportName value=""/>
+    <MethodExportAsk value="false"/>
+    <MethodImportName value=""/>
+    <MethodImportAsk value="false"/>
+    <MethodImportOnDialog value="false"/>
+    <MethodImportOnBuild value="false"/>
+    <MethodMDEName value=""/>
+    <NamingPreference value="2"/>
+    <NoRepositoryInfo value="false"/>
+    <SelectObjects value="0"/>
+    <HTMLLogging value="false"/>
+    <SanitizeFiles value="3"/>
+    <UseProjectPath value="true"/>
+    <VersioningSystem value="1"/>
+    <KillCTI value="true"/>
+    <ValidSystemObjects value=""/>
+    <SplitFormsFiles value="true"/>
+    <SplitReportFiles value="true"/>
+    <AdditionalFolders/>
+    <DataTables>
+      <Table0 TableName="*"/>
+    </DataTables>
+    <ExportFilters>
+      <Filter Index="0"/>
+      <Filter Index="1"/>
+      <Filter Index="2"/>
+      <Filter Index="3"/>
+      <Filter Index="4"/>
+      <Filter Index="5"/>
+      <Filter Index="6"/>
+      <Filter Index="7"/>
+      <Filter Index="8"/>
+      <Filter Index="9"/>
+      <Filter Index="10"/>
+      <Filter Index="11"/>
+      <Filter Index="12"/>
+      <Filter Index="13"/>
+      <Filter Index="14"/>
+      <Filter Index="15"/>
+      <Filter Index="16"/>
+    </ExportFilters>
+    <ImportFilters>
+      <Filter Index="0"/>
+      <Filter Index="1"/>
+      <Filter Index="2"/>
+      <Filter Index="3"/>
+      <Filter Index="4"/>
+      <Filter Index="5"/>
+      <Filter Index="6"/>
+      <Filter Index="7"/>
+      <Filter Index="8"/>
+      <Filter Index="9"/>
+      <Filter Index="10"/>
+      <Filter Index="11"/>
+      <Filter Index="12"/>
+      <Filter Index="13"/>
+      <Filter Index="14"/>
+      <Filter Index="15"/>
+      <Filter Index="16"/>
+    </ImportFilters>
+  </ProjectSettings>
+</OASIS>

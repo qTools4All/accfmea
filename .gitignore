@@ -1,0 +1,10 @@
+# Do not catch MS Access files!!!
+*.accdb
+*.laccdb
+
+# Catch AccFMEA.oasis file but no other *.oasis (e.g. for branches)
+*.oasis
+!AccFMEA.oasis
+
+# Folder 'cmdtools' disabled until needed
+/cmdtools
